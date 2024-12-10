@@ -27,7 +27,7 @@ The first two responses are labeled as “Y = 1,” and the third is labeled as 
 - During sunny weather, the driver whether male or female, has a higher probability of accepting a coupon v/s when its snowy or rainy. 
 - Higher chances of accepting coupon if driver is alone
 - Higher chances of accepting coupon if driver is going in the same direction as coupon destination
-- Higher probability of accepting a Coffee house coupon or a restaurant < 20 coupo n if destination is 'No Urgent Place' 
+- Higher probability of accepting a Coffee house coupon or a restaurant < 20 coupon if destination is 'No Urgent Place' 
 - Higher probability of accepting a coupon if
   a) destination is 'No Urgent Place' and with Friends for a Coffee house coupon 
   b) destination is 'No Urgent Place' and with Friends for a restaurant < 20 coupon
