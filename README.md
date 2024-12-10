@@ -36,6 +36,9 @@ The first two responses are labeled as “Y = 1,” and the third is labeled as 
 -  At 2PM carryout and take away coupons are rejected and restaurant (20-50) coupons are rejected at 10 AM. At 6PM, restaurant<20 is accepted
 
 ## Next Steps
+- Combining additional columns "toCoupon_GEQ5min", "toCoupon_GEQ15min", "toCoupon_GEQ25min" to infer patterns
+- Majority of the data in the dataset is categorical. One can create additional numeric columns to get frequency of coupons based on what the driver selected instead of 5 columns RestaurantLessThan20	Restaurant20To50,Bar , CoffeeHouse & CarryAway. Only 1 of this value can be saved
+
 
 
 ## Contact
