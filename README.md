@@ -24,7 +24,7 @@ The first two responses are labeled as “Y = 1,” and the third is labeled as 
 
 ## Findings
 - 56.8% of the drivers accepted the coupon for all the surveyed drivers totalling 12610
-- Weather is not the only metric which influences coupon acceptance or refusal.
+- During sunny weather, the driver whether male or female, has a higher probability of accepting a coupon v/s when its snowy or rainy. 
 - Higher chances of accepting coupon if driver is alone
 - Higher chances of accepting coupon if driver is going in the same direction as coupon destination
 - Higher probability of accepting a Coffee house coupon or a restaurant < 20 coupo n if destination is 'No Urgent Place' 
