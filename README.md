@@ -2,7 +2,7 @@ This repository contains data obtained via a survey conducted on Amazon Mechanic
 coupon if they were the driver.
 
 ## Objective
-The goal is to determine whether a customer will accept a coupon.
+The goal is to determine whether a customer will accept or reject a coupon.
 
 ## Dataset Description
 
