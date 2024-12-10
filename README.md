@@ -27,10 +27,10 @@ The first two responses are labeled as “Y = 1,” and the third is labeled as 
 - Weather is not the only metric which influences coupon acceptance or refusal.
 - Higher chances of accepting coupon if driver is alone
 - Higher chances of accepting coupon if driver is going in the same direction as coupon destination
-- Higher probability of accepting a Coffee house coupon or a restaurant < 20 coupn if destination is 'No Urgent Place' 
+- Higher probability of accepting a Coffee house coupon or a restaurant < 20 coupo n if destination is 'No Urgent Place' 
 - Higher probability of accepting a coupon if
- --a) destination is 'No Urgent Place' and with Friends for a Coffee house coupon 
- --b) destination is 'No Urgent Place' and with Friends for a restaurant < 20 coupon
+  a) destination is 'No Urgent Place' and with Friends for a Coffee house coupon 
+  b) destination is 'No Urgent Place' and with Friends for a restaurant < 20 coupon
 -Very low probability of accepting a coupon if occupation is 'Farming Fishing & Forestry" 
 - 21 year old drivers have the highest coupon acceptance probablity
 
