@@ -22,9 +22,20 @@ There are three possible answers people can choose from:
 “No, I do not want the coupon”
 The first two responses are labeled as “Y = 1,” and the third is labeled as “Y = 0.” There are five different types of coupons: Less expensive restaurants (under $20), coffee houses, carryout and takeaway, bars, and more expensive restaurants ($20–$50).
 
-## Data Access
+## Findings
+- 56.8% of the drivers accepted the coupon for all the surveyed drivers totalling 12610
+- Weather is not the only metric which influences coupon acceptance or refusal.
+- Higher chances of accepting coupon if driver is alone
+- Higher chances of accepting coupon if driver is going in the same direction as coupon destination
+- Higher probability of accepting a Coffee house coupon or a restaurant < 20 coupn if destination is 'No Urgent Place' 
+- Higher probability of accepting a coupon if
+ --a) destination is 'No Urgent Place' and with Friends for a Coffee house coupon 
+ --b) destination is 'No Urgent Place' and with Friends for a restaurant < 20 coupon
+-Very low probability of accepting a coupon if occupation is 'Farming Fishing & Forestry" 
+- 21 year old drivers have the highest coupon acceptance probablity
 
-The original dataset is available for download in CSV format from https://archive.ics.uci.edu/dataset/603/in+vehicle+coupon+recommendation. 
+## Next Steps
+
 
 ## Contact
 
