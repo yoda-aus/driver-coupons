@@ -1,5 +1,3 @@
-This repository contains data obtained via a survey conducted on Amazon Mechanical Turk. The survey presented various driving scenarios, including details such as destination, current time, weather, passenger presence, etc., and asked participants whether they would accept a 
-coupon if they were the driver.
 
 ## Objective
 The goal is to determine whether a customer will accept or reject a coupon.
