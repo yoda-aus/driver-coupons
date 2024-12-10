@@ -33,6 +33,7 @@ The first two responses are labeled as “Y = 1,” and the third is labeled as 
   b) destination is 'No Urgent Place' and with Friends for a restaurant < 20 coupon
 -Very low probability of accepting a coupon if occupation is 'Farming Fishing & Forestry" 
 - 21 year old drivers have the highest coupon acceptance probablity
+-  At 2PM carryout and take away coupons are rejected and restaurant (20-50) coupons are rejected at 10 AM. At 6PM, restaurant<20 is accepted
 
 ## Next Steps
 
